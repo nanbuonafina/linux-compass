@@ -9,8 +9,6 @@
 - **Shell Script**
 - **Crontab**
 
----
-
 ## Configuração do Ambiente
 
 ### WSL e Ubuntu
