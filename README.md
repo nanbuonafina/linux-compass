@@ -1,5 +1,16 @@
 # README: Configuração de Ambiente e Projeto
 
+## Tecnologias Utilizadas
+
+- **WSL (Windows Subsystem for Linux)**
+- **Ubuntu**
+- **AWS EC2**
+- **Nginx**
+- **Shell Script**
+- **Crontab**
+
+---
+
 ## Configuração do Ambiente
 
 ### WSL e Ubuntu
