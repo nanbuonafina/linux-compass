@@ -1,4 +1,4 @@
-# README: Configuração de Ambiente e Projeto
+# Configuração de Ambiente e Projeto
 
 ## Tecnologias Utilizadas
 
